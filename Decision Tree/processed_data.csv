@@ -1,0 +1,304 @@
+,alder,køn,type_bryst_smerte,blodtryk_hvile,kolesterol,blodsukker_faste,ekg_hvile,max_hjerterytme,angina_ved_træning,st_depresion,st_segment,blodkar_fluoroskopi,thallium_stress_test,target
+0,63,mand,ingen symptomer,145,233,over 120mg/ml,normal,150,nej,2.3,eleveret,0,normal,1
+1,37,mand,uspecificeret brystsmerte,130,250,under 120mg/ml,abnormal ST segment,187,nej,3.5,eleveret,0,fixed defect,1
+2,41,kvinde,atypisk angina,130,204,under 120mg/ml,normal,172,nej,1.4,sænket,0,fixed defect,1
+3,56,mand,atypisk angina,120,236,under 120mg/ml,abnormal ST segment,178,nej,0.8,sænket,0,fixed defect,1
+4,57,kvinde,typisk angina,120,354,under 120mg/ml,abnormal ST segment,163,ja,0.6,sænket,0,fixed defect,1
+5,57,mand,typisk angina,140,192,under 120mg/ml,abnormal ST segment,148,nej,0.4,normal,0,normal,1
+6,56,kvinde,atypisk angina,140,294,under 120mg/ml,normal,153,nej,1.3,normal,0,fixed defect,1
+7,44,mand,atypisk angina,120,263,under 120mg/ml,abnormal ST segment,173,nej,0.0,sænket,0,reversable defect,1
+8,52,mand,uspecificeret brystsmerte,172,199,over 120mg/ml,abnormal ST segment,162,nej,0.5,sænket,0,reversable defect,1
+9,57,mand,uspecificeret brystsmerte,150,168,under 120mg/ml,abnormal ST segment,174,nej,1.6,sænket,0,fixed defect,1
+10,54,mand,typisk angina,140,239,under 120mg/ml,abnormal ST segment,160,nej,1.2,sænket,0,fixed defect,1
+11,48,kvinde,uspecificeret brystsmerte,130,275,under 120mg/ml,abnormal ST segment,139,nej,0.2,sænket,0,fixed defect,1
+12,49,mand,atypisk angina,130,266,under 120mg/ml,abnormal ST segment,171,nej,0.6,sænket,0,fixed defect,1
+13,64,mand,ingen symptomer,110,211,under 120mg/ml,normal,144,ja,1.8,normal,0,fixed defect,1
+14,58,kvinde,ingen symptomer,150,283,over 120mg/ml,normal,162,nej,1.0,sænket,0,fixed defect,1
+15,50,kvinde,uspecificeret brystsmerte,120,219,under 120mg/ml,abnormal ST segment,158,nej,1.6,normal,0,fixed defect,1
+16,58,kvinde,uspecificeret brystsmerte,120,340,under 120mg/ml,abnormal ST segment,172,nej,0.0,sænket,0,fixed defect,1
+17,66,kvinde,ingen symptomer,150,226,under 120mg/ml,abnormal ST segment,114,nej,2.6,eleveret,0,fixed defect,1
+18,43,mand,typisk angina,150,247,under 120mg/ml,abnormal ST segment,171,nej,1.5,sænket,0,fixed defect,1
+19,69,kvinde,ingen symptomer,140,239,under 120mg/ml,abnormal ST segment,151,nej,1.8,sænket,2,fixed defect,1
+20,59,mand,typisk angina,135,234,under 120mg/ml,abnormal ST segment,161,nej,0.5,normal,0,reversable defect,1
+21,44,mand,uspecificeret brystsmerte,130,233,under 120mg/ml,abnormal ST segment,179,ja,0.4,sænket,0,fixed defect,1
+22,42,mand,typisk angina,140,226,under 120mg/ml,abnormal ST segment,178,nej,0.0,sænket,0,fixed defect,1
+23,61,mand,uspecificeret brystsmerte,150,243,over 120mg/ml,abnormal ST segment,137,ja,1.0,normal,0,fixed defect,1
+24,40,mand,ingen symptomer,140,199,under 120mg/ml,abnormal ST segment,178,ja,1.4,sænket,0,reversable defect,1
+25,71,kvinde,atypisk angina,160,302,under 120mg/ml,abnormal ST segment,162,nej,0.4,sænket,2,fixed defect,1
+26,59,mand,uspecificeret brystsmerte,150,212,over 120mg/ml,abnormal ST segment,157,nej,1.6,sænket,0,fixed defect,1
+27,51,mand,uspecificeret brystsmerte,110,175,under 120mg/ml,abnormal ST segment,123,nej,0.6,sænket,0,fixed defect,1
+28,65,kvinde,uspecificeret brystsmerte,140,417,over 120mg/ml,normal,157,nej,0.8,sænket,1,fixed defect,1
+29,53,mand,uspecificeret brystsmerte,130,197,over 120mg/ml,normal,152,nej,1.2,eleveret,0,fixed defect,1
+30,41,kvinde,atypisk angina,105,198,under 120mg/ml,abnormal ST segment,168,nej,0.0,sænket,1,fixed defect,1
+31,65,mand,typisk angina,120,177,under 120mg/ml,abnormal ST segment,140,nej,0.4,sænket,0,reversable defect,1
+32,44,mand,atypisk angina,130,219,under 120mg/ml,normal,188,nej,0.0,sænket,0,fixed defect,1
+33,54,mand,uspecificeret brystsmerte,125,273,under 120mg/ml,normal,152,nej,0.5,eleveret,1,fixed defect,1
+34,51,mand,ingen symptomer,125,213,under 120mg/ml,normal,125,ja,1.4,sænket,1,fixed defect,1
+35,46,kvinde,uspecificeret brystsmerte,142,177,under 120mg/ml,normal,160,ja,1.4,eleveret,0,fixed defect,1
+36,54,kvinde,uspecificeret brystsmerte,135,304,over 120mg/ml,abnormal ST segment,170,nej,0.0,sænket,0,fixed defect,1
+37,54,mand,uspecificeret brystsmerte,150,232,under 120mg/ml,normal,165,nej,1.6,sænket,0,reversable defect,1
+38,65,kvinde,uspecificeret brystsmerte,155,269,under 120mg/ml,abnormal ST segment,148,nej,0.8,sænket,0,fixed defect,1
+39,65,kvinde,uspecificeret brystsmerte,160,360,under 120mg/ml,normal,151,nej,0.8,sænket,0,fixed defect,1
+40,51,kvinde,uspecificeret brystsmerte,140,308,under 120mg/ml,normal,142,nej,1.5,sænket,1,fixed defect,1
+41,48,mand,atypisk angina,130,245,under 120mg/ml,normal,180,nej,0.2,normal,0,fixed defect,1
+42,45,mand,typisk angina,104,208,under 120mg/ml,normal,148,ja,3.0,normal,0,fixed defect,1
+43,53,kvinde,typisk angina,130,264,under 120mg/ml,normal,143,nej,0.4,normal,0,fixed defect,1
+44,39,mand,uspecificeret brystsmerte,140,321,under 120mg/ml,normal,182,nej,0.0,sænket,0,fixed defect,1
+45,52,mand,atypisk angina,120,325,under 120mg/ml,abnormal ST segment,172,nej,0.2,sænket,0,fixed defect,1
+46,44,mand,uspecificeret brystsmerte,140,235,under 120mg/ml,normal,180,nej,0.0,sænket,0,fixed defect,1
+47,47,mand,uspecificeret brystsmerte,138,257,under 120mg/ml,normal,156,nej,0.0,sænket,0,fixed defect,1
+48,53,kvinde,uspecificeret brystsmerte,128,216,under 120mg/ml,normal,115,nej,0.0,sænket,0,0,1
+49,53,kvinde,typisk angina,138,234,under 120mg/ml,normal,160,nej,0.0,sænket,0,fixed defect,1
+50,51,kvinde,uspecificeret brystsmerte,130,256,under 120mg/ml,normal,149,nej,0.5,sænket,0,fixed defect,1
+51,66,mand,typisk angina,120,302,under 120mg/ml,normal,151,nej,0.4,normal,0,fixed defect,1
+52,62,mand,uspecificeret brystsmerte,130,231,under 120mg/ml,abnormal ST segment,146,nej,1.8,normal,3,reversable defect,1
+53,44,kvinde,uspecificeret brystsmerte,108,141,under 120mg/ml,abnormal ST segment,175,nej,0.6,normal,0,fixed defect,1
+54,63,kvinde,uspecificeret brystsmerte,135,252,under 120mg/ml,normal,172,nej,0.0,sænket,0,fixed defect,1
+55,52,mand,atypisk angina,134,201,under 120mg/ml,abnormal ST segment,158,nej,0.8,sænket,1,fixed defect,1
+56,48,mand,typisk angina,122,222,under 120mg/ml,normal,186,nej,0.0,sænket,0,fixed defect,1
+57,45,mand,typisk angina,115,260,under 120mg/ml,normal,185,nej,0.0,sænket,0,fixed defect,1
+58,34,mand,ingen symptomer,118,182,under 120mg/ml,normal,174,nej,0.0,sænket,0,fixed defect,1
+59,57,kvinde,typisk angina,128,303,under 120mg/ml,normal,159,nej,0.0,sænket,1,fixed defect,1
+60,71,kvinde,uspecificeret brystsmerte,110,265,over 120mg/ml,normal,130,nej,0.0,sænket,1,fixed defect,1
+61,54,mand,atypisk angina,108,309,under 120mg/ml,abnormal ST segment,156,nej,0.0,sænket,0,reversable defect,1
+62,52,mand,ingen symptomer,118,186,under 120mg/ml,normal,190,nej,0.0,normal,0,normal,1
+63,41,mand,atypisk angina,135,203,under 120mg/ml,abnormal ST segment,132,nej,0.0,normal,0,normal,1
+64,58,mand,uspecificeret brystsmerte,140,211,over 120mg/ml,normal,165,nej,0.0,sænket,0,fixed defect,1
+65,35,kvinde,typisk angina,138,183,under 120mg/ml,abnormal ST segment,182,nej,1.4,sænket,0,fixed defect,1
+66,51,mand,uspecificeret brystsmerte,100,222,under 120mg/ml,abnormal ST segment,143,ja,1.2,normal,0,fixed defect,1
+67,45,kvinde,atypisk angina,130,234,under 120mg/ml,normal,175,nej,0.6,normal,0,fixed defect,1
+68,44,mand,atypisk angina,120,220,under 120mg/ml,abnormal ST segment,170,nej,0.0,sænket,0,fixed defect,1
+69,62,kvinde,typisk angina,124,209,under 120mg/ml,abnormal ST segment,163,nej,0.0,sænket,0,fixed defect,1
+70,54,mand,uspecificeret brystsmerte,120,258,under 120mg/ml,normal,147,nej,0.4,normal,0,reversable defect,1
+71,51,mand,uspecificeret brystsmerte,94,227,under 120mg/ml,abnormal ST segment,154,ja,0.0,sænket,1,reversable defect,1
+72,29,mand,atypisk angina,130,204,under 120mg/ml,normal,202,nej,0.0,sænket,0,fixed defect,1
+73,51,mand,typisk angina,140,261,under 120mg/ml,normal,186,ja,0.0,sænket,0,fixed defect,1
+74,43,kvinde,uspecificeret brystsmerte,122,213,under 120mg/ml,abnormal ST segment,165,nej,0.2,normal,0,fixed defect,1
+75,55,kvinde,atypisk angina,135,250,under 120mg/ml,normal,161,nej,1.4,normal,0,fixed defect,1
+76,51,mand,uspecificeret brystsmerte,125,245,over 120mg/ml,normal,166,nej,2.4,normal,0,fixed defect,1
+77,59,mand,atypisk angina,140,221,under 120mg/ml,abnormal ST segment,164,ja,0.0,sænket,0,fixed defect,1
+78,52,mand,atypisk angina,128,205,over 120mg/ml,abnormal ST segment,184,nej,0.0,sænket,0,fixed defect,1
+79,58,mand,uspecificeret brystsmerte,105,240,under 120mg/ml,normal,154,ja,0.6,normal,0,reversable defect,1
+80,41,mand,uspecificeret brystsmerte,112,250,under 120mg/ml,abnormal ST segment,179,nej,0.0,sænket,0,fixed defect,1
+81,45,mand,atypisk angina,128,308,under 120mg/ml,normal,170,nej,0.0,sænket,0,fixed defect,1
+82,60,kvinde,uspecificeret brystsmerte,102,318,under 120mg/ml,abnormal ST segment,160,nej,0.0,sænket,1,fixed defect,1
+83,52,mand,ingen symptomer,152,298,over 120mg/ml,abnormal ST segment,178,nej,1.2,normal,0,reversable defect,1
+84,42,kvinde,typisk angina,102,265,under 120mg/ml,normal,122,nej,0.6,normal,0,fixed defect,1
+85,67,kvinde,uspecificeret brystsmerte,115,564,under 120mg/ml,normal,160,nej,1.6,normal,0,reversable defect,1
+86,68,mand,uspecificeret brystsmerte,118,277,under 120mg/ml,abnormal ST segment,151,nej,1.0,sænket,1,reversable defect,1
+87,46,mand,atypisk angina,101,197,over 120mg/ml,abnormal ST segment,156,nej,0.0,sænket,0,reversable defect,1
+88,54,kvinde,uspecificeret brystsmerte,110,214,under 120mg/ml,abnormal ST segment,158,nej,1.6,normal,0,fixed defect,1
+89,58,kvinde,typisk angina,100,248,under 120mg/ml,normal,122,nej,1.0,normal,0,fixed defect,1
+90,48,mand,uspecificeret brystsmerte,124,255,over 120mg/ml,abnormal ST segment,175,nej,0.0,sænket,2,fixed defect,1
+91,57,mand,typisk angina,132,207,under 120mg/ml,abnormal ST segment,168,ja,0.0,sænket,0,reversable defect,1
+92,52,mand,uspecificeret brystsmerte,138,223,under 120mg/ml,abnormal ST segment,169,nej,0.0,sænket,4,fixed defect,1
+93,54,kvinde,atypisk angina,132,288,over 120mg/ml,normal,159,ja,0.0,sænket,1,fixed defect,1
+94,45,kvinde,atypisk angina,112,160,under 120mg/ml,abnormal ST segment,138,nej,0.0,normal,0,fixed defect,1
+95,53,mand,typisk angina,142,226,under 120mg/ml,normal,111,ja,0.0,sænket,0,reversable defect,1
+96,62,kvinde,typisk angina,140,394,under 120mg/ml,normal,157,nej,1.2,normal,0,fixed defect,1
+97,52,mand,typisk angina,108,233,over 120mg/ml,abnormal ST segment,147,nej,0.1,sænket,3,reversable defect,1
+98,43,mand,uspecificeret brystsmerte,130,315,under 120mg/ml,abnormal ST segment,162,nej,1.9,sænket,1,fixed defect,1
+99,53,mand,uspecificeret brystsmerte,130,246,over 120mg/ml,normal,173,nej,0.0,sænket,3,fixed defect,1
+100,42,mand,ingen symptomer,148,244,under 120mg/ml,normal,178,nej,0.8,sænket,2,fixed defect,1
+101,59,mand,ingen symptomer,178,270,under 120mg/ml,normal,145,nej,4.2,eleveret,0,reversable defect,1
+102,63,kvinde,atypisk angina,140,195,under 120mg/ml,abnormal ST segment,179,nej,0.0,sænket,2,fixed defect,1
+103,42,mand,uspecificeret brystsmerte,120,240,over 120mg/ml,abnormal ST segment,194,nej,0.8,eleveret,0,reversable defect,1
+104,50,mand,uspecificeret brystsmerte,129,196,under 120mg/ml,abnormal ST segment,163,nej,0.0,sænket,0,fixed defect,1
+105,68,kvinde,uspecificeret brystsmerte,120,211,under 120mg/ml,normal,115,nej,1.5,normal,0,fixed defect,1
+106,69,mand,ingen symptomer,160,234,over 120mg/ml,normal,131,nej,0.1,normal,1,fixed defect,1
+107,45,kvinde,typisk angina,138,236,under 120mg/ml,normal,152,ja,0.2,normal,0,fixed defect,1
+108,50,kvinde,atypisk angina,120,244,under 120mg/ml,abnormal ST segment,162,nej,1.1,sænket,0,fixed defect,1
+109,50,kvinde,typisk angina,110,254,under 120mg/ml,normal,159,nej,0.0,sænket,0,fixed defect,1
+110,64,kvinde,typisk angina,180,325,under 120mg/ml,abnormal ST segment,154,ja,0.0,sænket,0,fixed defect,1
+111,57,mand,uspecificeret brystsmerte,150,126,over 120mg/ml,abnormal ST segment,173,nej,0.2,sænket,1,reversable defect,1
+112,64,kvinde,uspecificeret brystsmerte,140,313,under 120mg/ml,abnormal ST segment,133,nej,0.2,sænket,0,reversable defect,1
+113,43,mand,typisk angina,110,211,under 120mg/ml,abnormal ST segment,161,nej,0.0,sænket,0,reversable defect,1
+114,55,mand,atypisk angina,130,262,under 120mg/ml,abnormal ST segment,155,nej,0.0,sænket,0,fixed defect,1
+115,37,kvinde,uspecificeret brystsmerte,120,215,under 120mg/ml,abnormal ST segment,170,nej,0.0,sænket,0,fixed defect,1
+116,41,mand,uspecificeret brystsmerte,130,214,under 120mg/ml,normal,168,nej,2.0,normal,0,fixed defect,1
+117,56,mand,ingen symptomer,120,193,under 120mg/ml,normal,162,nej,1.9,normal,0,reversable defect,1
+118,46,kvinde,atypisk angina,105,204,under 120mg/ml,abnormal ST segment,172,nej,0.0,sænket,0,fixed defect,1
+119,46,kvinde,typisk angina,138,243,under 120mg/ml,normal,152,ja,0.0,normal,0,fixed defect,1
+120,64,kvinde,typisk angina,130,303,under 120mg/ml,abnormal ST segment,122,nej,2.0,normal,2,fixed defect,1
+121,59,mand,typisk angina,138,271,under 120mg/ml,normal,182,nej,0.0,sænket,0,fixed defect,1
+122,41,kvinde,uspecificeret brystsmerte,112,268,under 120mg/ml,normal,172,ja,0.0,sænket,0,fixed defect,1
+123,54,kvinde,uspecificeret brystsmerte,108,267,under 120mg/ml,normal,167,nej,0.0,sænket,0,fixed defect,1
+124,39,kvinde,uspecificeret brystsmerte,94,199,under 120mg/ml,abnormal ST segment,179,nej,0.0,sænket,0,fixed defect,1
+125,34,kvinde,atypisk angina,118,210,under 120mg/ml,abnormal ST segment,192,nej,0.7,sænket,0,fixed defect,1
+126,47,mand,typisk angina,112,204,under 120mg/ml,abnormal ST segment,143,nej,0.1,sænket,0,fixed defect,1
+127,67,kvinde,uspecificeret brystsmerte,152,277,under 120mg/ml,abnormal ST segment,172,nej,0.0,sænket,1,fixed defect,1
+128,52,kvinde,uspecificeret brystsmerte,136,196,under 120mg/ml,normal,169,nej,0.1,normal,0,fixed defect,1
+129,74,kvinde,atypisk angina,120,269,under 120mg/ml,normal,121,ja,0.2,sænket,1,fixed defect,1
+130,54,kvinde,uspecificeret brystsmerte,160,201,under 120mg/ml,abnormal ST segment,163,nej,0.0,sænket,1,fixed defect,1
+131,49,kvinde,atypisk angina,134,271,under 120mg/ml,abnormal ST segment,162,nej,0.0,normal,0,fixed defect,1
+132,42,mand,atypisk angina,120,295,under 120mg/ml,abnormal ST segment,162,nej,0.0,sænket,0,fixed defect,1
+133,41,mand,atypisk angina,110,235,under 120mg/ml,abnormal ST segment,153,nej,0.0,sænket,0,fixed defect,1
+134,41,kvinde,atypisk angina,126,306,under 120mg/ml,abnormal ST segment,163,nej,0.0,sænket,0,fixed defect,1
+135,49,kvinde,typisk angina,130,269,under 120mg/ml,abnormal ST segment,163,nej,0.0,sænket,0,fixed defect,1
+136,60,kvinde,uspecificeret brystsmerte,120,178,over 120mg/ml,abnormal ST segment,96,nej,0.0,sænket,0,fixed defect,1
+137,62,mand,atypisk angina,128,208,over 120mg/ml,normal,140,nej,0.0,sænket,0,fixed defect,1
+138,57,mand,typisk angina,110,201,under 120mg/ml,abnormal ST segment,126,ja,1.5,normal,0,normal,1
+139,64,mand,typisk angina,128,263,under 120mg/ml,abnormal ST segment,105,ja,0.2,normal,1,reversable defect,1
+140,51,kvinde,uspecificeret brystsmerte,120,295,under 120mg/ml,normal,157,nej,0.6,sænket,0,fixed defect,1
+141,43,mand,typisk angina,115,303,under 120mg/ml,abnormal ST segment,181,nej,1.2,normal,0,fixed defect,1
+142,42,kvinde,uspecificeret brystsmerte,120,209,under 120mg/ml,abnormal ST segment,173,nej,0.0,normal,0,fixed defect,1
+143,67,kvinde,typisk angina,106,223,under 120mg/ml,abnormal ST segment,142,nej,0.3,sænket,2,fixed defect,1
+144,76,kvinde,uspecificeret brystsmerte,140,197,under 120mg/ml,venstre ventrikulær hypertrofi,116,nej,1.1,normal,0,fixed defect,1
+145,70,mand,atypisk angina,156,245,under 120mg/ml,normal,143,nej,0.0,sænket,0,fixed defect,1
+146,44,kvinde,uspecificeret brystsmerte,118,242,under 120mg/ml,abnormal ST segment,149,nej,0.3,normal,1,fixed defect,1
+147,60,kvinde,ingen symptomer,150,240,under 120mg/ml,abnormal ST segment,171,nej,0.9,sænket,0,fixed defect,1
+148,44,mand,uspecificeret brystsmerte,120,226,under 120mg/ml,abnormal ST segment,169,nej,0.0,sænket,0,fixed defect,1
+149,42,mand,uspecificeret brystsmerte,130,180,under 120mg/ml,abnormal ST segment,150,nej,0.0,sænket,0,fixed defect,1
+150,66,mand,typisk angina,160,228,under 120mg/ml,normal,138,nej,2.3,sænket,0,normal,1
+151,71,kvinde,typisk angina,112,149,under 120mg/ml,abnormal ST segment,125,nej,1.6,normal,0,fixed defect,1
+152,64,mand,ingen symptomer,170,227,under 120mg/ml,normal,155,nej,0.6,normal,0,reversable defect,1
+153,66,kvinde,uspecificeret brystsmerte,146,278,under 120mg/ml,normal,152,nej,0.0,normal,1,fixed defect,1
+154,39,kvinde,uspecificeret brystsmerte,138,220,under 120mg/ml,abnormal ST segment,152,nej,0.0,normal,0,fixed defect,1
+155,58,kvinde,typisk angina,130,197,under 120mg/ml,abnormal ST segment,131,nej,0.6,normal,0,fixed defect,1
+156,47,mand,uspecificeret brystsmerte,130,253,under 120mg/ml,abnormal ST segment,179,nej,0.0,sænket,0,fixed defect,1
+157,35,mand,atypisk angina,122,192,under 120mg/ml,abnormal ST segment,174,nej,0.0,sænket,0,fixed defect,1
+158,58,mand,atypisk angina,125,220,under 120mg/ml,abnormal ST segment,144,nej,0.4,normal,4,reversable defect,1
+159,56,mand,atypisk angina,130,221,under 120mg/ml,normal,163,nej,0.0,sænket,0,reversable defect,1
+160,56,mand,atypisk angina,120,240,under 120mg/ml,abnormal ST segment,169,nej,0.0,eleveret,0,fixed defect,1
+161,55,kvinde,atypisk angina,132,342,under 120mg/ml,abnormal ST segment,166,nej,1.2,sænket,0,fixed defect,1
+162,41,mand,atypisk angina,120,157,under 120mg/ml,abnormal ST segment,182,nej,0.0,sænket,0,fixed defect,1
+163,38,mand,uspecificeret brystsmerte,138,175,under 120mg/ml,abnormal ST segment,173,nej,0.0,sænket,4,fixed defect,1
+164,38,mand,uspecificeret brystsmerte,138,175,under 120mg/ml,abnormal ST segment,173,nej,0.0,sænket,4,fixed defect,1
+165,67,mand,typisk angina,160,286,under 120mg/ml,normal,108,ja,1.5,normal,3,fixed defect,0
+166,67,mand,typisk angina,120,229,under 120mg/ml,normal,129,ja,2.6,normal,2,reversable defect,0
+167,62,kvinde,typisk angina,140,268,under 120mg/ml,normal,160,nej,3.6,eleveret,2,fixed defect,0
+168,63,mand,typisk angina,130,254,under 120mg/ml,normal,147,nej,1.4,normal,1,reversable defect,0
+169,53,mand,typisk angina,140,203,over 120mg/ml,normal,155,ja,3.1,eleveret,0,reversable defect,0
+170,56,mand,uspecificeret brystsmerte,130,256,over 120mg/ml,normal,142,ja,0.6,normal,1,normal,0
+171,48,mand,atypisk angina,110,229,under 120mg/ml,abnormal ST segment,168,nej,1.0,eleveret,0,reversable defect,0
+172,58,mand,atypisk angina,120,284,under 120mg/ml,normal,160,nej,1.8,normal,0,fixed defect,0
+173,58,mand,uspecificeret brystsmerte,132,224,under 120mg/ml,normal,173,nej,3.2,sænket,2,reversable defect,0
+174,60,mand,typisk angina,130,206,under 120mg/ml,normal,132,ja,2.4,normal,2,reversable defect,0
+175,40,mand,typisk angina,110,167,under 120mg/ml,normal,114,ja,2.0,normal,0,reversable defect,0
+176,60,mand,typisk angina,117,230,over 120mg/ml,abnormal ST segment,160,ja,1.4,sænket,2,reversable defect,0
+177,64,mand,uspecificeret brystsmerte,140,335,under 120mg/ml,abnormal ST segment,158,nej,0.0,sænket,0,fixed defect,0
+178,43,mand,typisk angina,120,177,under 120mg/ml,normal,120,ja,2.5,normal,0,reversable defect,0
+179,57,mand,typisk angina,150,276,under 120mg/ml,normal,112,ja,0.6,normal,1,normal,0
+180,55,mand,typisk angina,132,353,under 120mg/ml,abnormal ST segment,132,ja,1.2,normal,1,reversable defect,0
+181,65,kvinde,typisk angina,150,225,under 120mg/ml,normal,114,nej,1.0,normal,3,reversable defect,0
+182,61,kvinde,typisk angina,130,330,under 120mg/ml,normal,169,nej,0.0,sænket,0,fixed defect,0
+183,58,mand,uspecificeret brystsmerte,112,230,under 120mg/ml,normal,165,nej,2.5,normal,1,reversable defect,0
+184,50,mand,typisk angina,150,243,under 120mg/ml,normal,128,nej,2.6,normal,0,reversable defect,0
+185,44,mand,typisk angina,112,290,under 120mg/ml,normal,153,nej,0.0,sænket,1,fixed defect,0
+186,60,mand,typisk angina,130,253,under 120mg/ml,abnormal ST segment,144,ja,1.4,sænket,1,reversable defect,0
+187,54,mand,typisk angina,124,266,under 120mg/ml,normal,109,ja,2.2,normal,1,reversable defect,0
+188,50,mand,uspecificeret brystsmerte,140,233,under 120mg/ml,abnormal ST segment,163,nej,0.6,normal,1,reversable defect,0
+189,41,mand,typisk angina,110,172,under 120mg/ml,normal,158,nej,0.0,sænket,0,reversable defect,0
+190,51,kvinde,typisk angina,130,305,under 120mg/ml,abnormal ST segment,142,ja,1.2,normal,0,reversable defect,0
+191,58,mand,typisk angina,128,216,under 120mg/ml,normal,131,ja,2.2,normal,3,reversable defect,0
+192,54,mand,typisk angina,120,188,under 120mg/ml,abnormal ST segment,113,nej,1.4,normal,1,reversable defect,0
+193,60,mand,typisk angina,145,282,under 120mg/ml,normal,142,ja,2.8,normal,2,reversable defect,0
+194,60,mand,uspecificeret brystsmerte,140,185,under 120mg/ml,normal,155,nej,3.0,normal,0,fixed defect,0
+195,59,mand,typisk angina,170,326,under 120mg/ml,normal,140,ja,3.4,eleveret,0,reversable defect,0
+196,46,mand,uspecificeret brystsmerte,150,231,under 120mg/ml,abnormal ST segment,147,nej,3.6,normal,0,fixed defect,0
+197,67,mand,typisk angina,125,254,over 120mg/ml,abnormal ST segment,163,nej,0.2,normal,2,reversable defect,0
+198,62,mand,typisk angina,120,267,under 120mg/ml,abnormal ST segment,99,ja,1.8,normal,2,reversable defect,0
+199,65,mand,typisk angina,110,248,under 120mg/ml,normal,158,nej,0.6,sænket,2,normal,0
+200,44,mand,typisk angina,110,197,under 120mg/ml,normal,177,nej,0.0,sænket,1,fixed defect,0
+201,60,mand,typisk angina,125,258,under 120mg/ml,normal,141,ja,2.8,normal,1,reversable defect,0
+202,58,mand,typisk angina,150,270,under 120mg/ml,normal,111,ja,0.8,sænket,0,reversable defect,0
+203,68,mand,uspecificeret brystsmerte,180,274,over 120mg/ml,normal,150,ja,1.6,normal,0,reversable defect,0
+204,62,kvinde,typisk angina,160,164,under 120mg/ml,normal,145,nej,6.2,eleveret,3,reversable defect,0
+205,52,mand,typisk angina,128,255,under 120mg/ml,abnormal ST segment,161,ja,0.0,sænket,1,reversable defect,0
+206,59,mand,typisk angina,110,239,under 120mg/ml,normal,142,ja,1.2,normal,1,reversable defect,0
+207,60,kvinde,typisk angina,150,258,under 120mg/ml,normal,157,nej,2.6,normal,2,reversable defect,0
+208,49,mand,uspecificeret brystsmerte,120,188,under 120mg/ml,abnormal ST segment,139,nej,2.0,normal,3,reversable defect,0
+209,59,mand,typisk angina,140,177,under 120mg/ml,abnormal ST segment,162,ja,0.0,sænket,1,reversable defect,0
+210,57,mand,uspecificeret brystsmerte,128,229,under 120mg/ml,normal,150,nej,0.4,normal,1,reversable defect,0
+211,61,mand,typisk angina,120,260,under 120mg/ml,abnormal ST segment,140,ja,3.6,normal,1,reversable defect,0
+212,39,mand,typisk angina,118,219,under 120mg/ml,abnormal ST segment,140,nej,1.2,normal,0,reversable defect,0
+213,61,kvinde,typisk angina,145,307,under 120mg/ml,normal,146,ja,1.0,normal,0,reversable defect,0
+214,56,mand,typisk angina,125,249,over 120mg/ml,normal,144,ja,1.2,normal,1,fixed defect,0
+215,43,kvinde,typisk angina,132,341,over 120mg/ml,normal,136,ja,3.0,normal,0,reversable defect,0
+216,62,kvinde,uspecificeret brystsmerte,130,263,under 120mg/ml,abnormal ST segment,97,nej,1.2,normal,1,reversable defect,0
+217,63,mand,typisk angina,130,330,over 120mg/ml,normal,132,ja,1.8,sænket,3,reversable defect,0
+218,65,mand,typisk angina,135,254,under 120mg/ml,normal,127,nej,2.8,normal,1,reversable defect,0
+219,48,mand,typisk angina,130,256,over 120mg/ml,normal,150,ja,0.0,sænket,2,reversable defect,0
+220,63,kvinde,typisk angina,150,407,under 120mg/ml,normal,154,nej,4.0,normal,3,reversable defect,0
+221,55,mand,typisk angina,140,217,under 120mg/ml,abnormal ST segment,111,ja,5.6,eleveret,0,reversable defect,0
+222,65,mand,ingen symptomer,138,282,over 120mg/ml,normal,174,nej,1.4,normal,1,fixed defect,0
+223,56,kvinde,typisk angina,200,288,over 120mg/ml,normal,133,ja,4.0,eleveret,2,reversable defect,0
+224,54,mand,typisk angina,110,239,under 120mg/ml,abnormal ST segment,126,ja,2.8,normal,1,reversable defect,0
+225,70,mand,typisk angina,145,174,under 120mg/ml,abnormal ST segment,125,ja,2.6,eleveret,0,reversable defect,0
+226,62,mand,atypisk angina,120,281,under 120mg/ml,normal,103,nej,1.4,normal,1,reversable defect,0
+227,35,mand,typisk angina,120,198,under 120mg/ml,abnormal ST segment,130,ja,1.6,normal,0,reversable defect,0
+228,59,mand,ingen symptomer,170,288,under 120mg/ml,normal,159,nej,0.2,normal,0,reversable defect,0
+229,64,mand,uspecificeret brystsmerte,125,309,under 120mg/ml,abnormal ST segment,131,ja,1.8,normal,0,reversable defect,0
+230,47,mand,uspecificeret brystsmerte,108,243,under 120mg/ml,abnormal ST segment,152,nej,0.0,sænket,0,fixed defect,0
+231,57,mand,typisk angina,165,289,over 120mg/ml,normal,124,nej,1.0,normal,3,reversable defect,0
+232,55,mand,typisk angina,160,289,under 120mg/ml,normal,145,ja,0.8,normal,1,reversable defect,0
+233,64,mand,typisk angina,120,246,under 120mg/ml,normal,96,ja,2.2,eleveret,1,fixed defect,0
+234,70,mand,typisk angina,130,322,under 120mg/ml,normal,109,nej,2.4,normal,3,fixed defect,0
+235,51,mand,typisk angina,140,299,under 120mg/ml,abnormal ST segment,173,ja,1.6,sænket,0,reversable defect,0
+236,58,mand,typisk angina,125,300,under 120mg/ml,normal,171,nej,0.0,sænket,2,reversable defect,0
+237,60,mand,typisk angina,140,293,under 120mg/ml,normal,170,nej,1.2,normal,2,reversable defect,0
+238,77,mand,typisk angina,125,304,under 120mg/ml,normal,162,ja,0.0,sænket,3,fixed defect,0
+239,35,mand,typisk angina,126,282,under 120mg/ml,normal,156,ja,0.0,sænket,0,reversable defect,0
+240,70,mand,uspecificeret brystsmerte,160,269,under 120mg/ml,abnormal ST segment,112,ja,2.9,normal,1,reversable defect,0
+241,59,kvinde,typisk angina,174,249,under 120mg/ml,abnormal ST segment,143,ja,0.0,normal,0,fixed defect,0
+242,64,mand,typisk angina,145,212,under 120mg/ml,normal,132,nej,2.0,normal,2,normal,0
+243,57,mand,typisk angina,152,274,under 120mg/ml,abnormal ST segment,88,ja,1.2,normal,1,reversable defect,0
+244,56,mand,typisk angina,132,184,under 120mg/ml,normal,105,ja,2.1,normal,1,normal,0
+245,48,mand,typisk angina,124,274,under 120mg/ml,normal,166,nej,0.5,normal,0,reversable defect,0
+246,56,kvinde,typisk angina,134,409,under 120mg/ml,normal,150,ja,1.9,normal,2,reversable defect,0
+247,66,mand,atypisk angina,160,246,under 120mg/ml,abnormal ST segment,120,ja,0.0,normal,3,normal,0
+248,54,mand,atypisk angina,192,283,under 120mg/ml,normal,195,nej,0.0,sænket,1,reversable defect,0
+249,69,mand,uspecificeret brystsmerte,140,254,under 120mg/ml,normal,146,nej,2.0,normal,3,reversable defect,0
+250,51,mand,typisk angina,140,298,under 120mg/ml,abnormal ST segment,122,ja,4.2,normal,3,reversable defect,0
+251,43,mand,typisk angina,132,247,over 120mg/ml,normal,143,ja,0.1,normal,4,reversable defect,0
+252,62,kvinde,typisk angina,138,294,over 120mg/ml,abnormal ST segment,106,nej,1.9,normal,3,fixed defect,0
+253,67,mand,typisk angina,100,299,under 120mg/ml,normal,125,ja,0.9,normal,2,fixed defect,0
+254,59,mand,ingen symptomer,160,273,under 120mg/ml,normal,125,nej,0.0,sænket,0,fixed defect,0
+255,45,mand,typisk angina,142,309,under 120mg/ml,normal,147,ja,0.0,normal,3,reversable defect,0
+256,58,mand,typisk angina,128,259,under 120mg/ml,normal,130,ja,3.0,normal,2,reversable defect,0
+257,50,mand,typisk angina,144,200,under 120mg/ml,normal,126,ja,0.9,normal,0,reversable defect,0
+258,62,kvinde,typisk angina,150,244,under 120mg/ml,abnormal ST segment,154,ja,1.4,normal,0,fixed defect,0
+259,38,mand,ingen symptomer,120,231,under 120mg/ml,abnormal ST segment,182,ja,3.8,normal,0,reversable defect,0
+260,66,kvinde,typisk angina,178,228,over 120mg/ml,abnormal ST segment,165,ja,1.0,normal,2,reversable defect,0
+261,52,mand,typisk angina,112,230,under 120mg/ml,abnormal ST segment,160,nej,0.0,sænket,1,fixed defect,0
+262,53,mand,typisk angina,123,282,under 120mg/ml,abnormal ST segment,95,ja,2.0,normal,2,reversable defect,0
+263,63,kvinde,typisk angina,108,269,under 120mg/ml,abnormal ST segment,169,ja,1.8,normal,2,fixed defect,0
+264,54,mand,typisk angina,110,206,under 120mg/ml,normal,108,ja,0.0,normal,1,fixed defect,0
+265,66,mand,typisk angina,112,212,under 120mg/ml,normal,132,ja,0.1,sænket,1,fixed defect,0
+266,55,kvinde,typisk angina,180,327,under 120mg/ml,venstre ventrikulær hypertrofi,117,ja,3.4,normal,0,fixed defect,0
+267,49,mand,uspecificeret brystsmerte,118,149,under 120mg/ml,normal,126,nej,0.8,sænket,3,fixed defect,0
+268,54,mand,typisk angina,122,286,under 120mg/ml,normal,116,ja,3.2,normal,2,fixed defect,0
+269,56,mand,typisk angina,130,283,over 120mg/ml,normal,103,ja,1.6,eleveret,0,reversable defect,0
+270,46,mand,typisk angina,120,249,under 120mg/ml,normal,144,nej,0.8,sænket,0,reversable defect,0
+271,61,mand,ingen symptomer,134,234,under 120mg/ml,abnormal ST segment,145,nej,2.6,normal,2,fixed defect,0
+272,67,mand,typisk angina,120,237,under 120mg/ml,abnormal ST segment,71,nej,1.0,normal,0,fixed defect,0
+273,58,mand,typisk angina,100,234,under 120mg/ml,abnormal ST segment,156,nej,0.1,sænket,1,reversable defect,0
+274,47,mand,typisk angina,110,275,under 120mg/ml,normal,118,ja,1.0,normal,1,fixed defect,0
+275,52,mand,typisk angina,125,212,under 120mg/ml,abnormal ST segment,168,nej,1.0,sænket,2,reversable defect,0
+276,58,mand,typisk angina,146,218,under 120mg/ml,abnormal ST segment,105,nej,2.0,normal,1,reversable defect,0
+277,57,mand,atypisk angina,124,261,under 120mg/ml,abnormal ST segment,141,nej,0.3,sænket,0,reversable defect,0
+278,58,kvinde,atypisk angina,136,319,over 120mg/ml,normal,152,nej,0.0,sænket,2,fixed defect,0
+279,61,mand,typisk angina,138,166,under 120mg/ml,normal,125,ja,3.6,normal,1,fixed defect,0
+280,42,mand,typisk angina,136,315,under 120mg/ml,abnormal ST segment,125,ja,1.8,normal,0,normal,0
+281,52,mand,typisk angina,128,204,over 120mg/ml,abnormal ST segment,156,ja,1.0,normal,0,0,0
+282,59,mand,uspecificeret brystsmerte,126,218,over 120mg/ml,abnormal ST segment,134,nej,2.2,normal,1,normal,0
+283,40,mand,typisk angina,152,223,under 120mg/ml,abnormal ST segment,181,nej,0.0,sænket,0,reversable defect,0
+284,61,mand,typisk angina,140,207,under 120mg/ml,normal,138,ja,1.9,sænket,1,reversable defect,0
+285,46,mand,typisk angina,140,311,under 120mg/ml,abnormal ST segment,120,ja,1.8,normal,2,reversable defect,0
+286,59,mand,ingen symptomer,134,204,under 120mg/ml,abnormal ST segment,162,nej,0.8,sænket,2,fixed defect,0
+287,57,mand,atypisk angina,154,232,under 120mg/ml,normal,164,nej,0.0,sænket,1,fixed defect,0
+288,57,mand,typisk angina,110,335,under 120mg/ml,abnormal ST segment,143,ja,3.0,normal,1,reversable defect,0
+289,55,kvinde,typisk angina,128,205,under 120mg/ml,venstre ventrikulær hypertrofi,130,ja,2.0,normal,1,reversable defect,0
+290,61,mand,typisk angina,148,203,under 120mg/ml,abnormal ST segment,161,nej,0.0,sænket,1,reversable defect,0
+291,58,mand,typisk angina,114,318,under 120mg/ml,venstre ventrikulær hypertrofi,140,nej,4.4,eleveret,3,normal,0
+292,58,kvinde,typisk angina,170,225,over 120mg/ml,normal,146,ja,2.8,normal,2,normal,0
+293,67,mand,uspecificeret brystsmerte,152,212,under 120mg/ml,normal,150,nej,0.8,normal,0,reversable defect,0
+294,44,mand,typisk angina,120,169,under 120mg/ml,abnormal ST segment,144,ja,2.8,eleveret,0,normal,0
+295,63,mand,typisk angina,140,187,under 120mg/ml,normal,144,ja,4.0,sænket,2,reversable defect,0
+296,63,kvinde,typisk angina,124,197,under 120mg/ml,abnormal ST segment,136,ja,0.0,normal,0,fixed defect,0
+297,59,mand,typisk angina,164,176,over 120mg/ml,normal,90,nej,1.0,normal,2,normal,0
+298,57,kvinde,typisk angina,140,241,under 120mg/ml,abnormal ST segment,123,ja,0.2,normal,0,reversable defect,0
+299,45,mand,ingen symptomer,110,264,under 120mg/ml,abnormal ST segment,132,nej,1.2,normal,0,reversable defect,0
+300,68,mand,typisk angina,144,193,over 120mg/ml,abnormal ST segment,141,nej,3.4,normal,2,reversable defect,0
+301,57,mand,typisk angina,130,131,under 120mg/ml,abnormal ST segment,115,ja,1.2,normal,1,reversable defect,0
+302,57,kvinde,atypisk angina,130,236,under 120mg/ml,normal,174,nej,0.0,normal,1,fixed defect,0
